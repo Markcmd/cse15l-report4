@@ -1,9 +1,7 @@
 # CSE15L
 ## Lab 4
-
-
-
 ### step 4
+
 ![screenshort1](login_ieng6.png)
 
 Keypressed: ssh<space><ctrl>+<v><enter>
@@ -13,7 +11,9 @@ copy paste cs15lfa23iv@ieng6.ucsd.edu
 ### step 5 
 ![screenshort1](clone_sshURL.png)
 
-Keypressed: mkdir<space>cse15lLabReport4<enter>
+Keypressed: 
+            
+            mkdir<space>cse15lLabReport4<enter>
             cd<space>cse15lLabReport4<enter>
             git<space>clone<ctrl>+<v><enter>
             ls<enter>
